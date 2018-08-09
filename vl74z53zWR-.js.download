@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["sApdG"]); }
+
+__d("StreamStateMachineConstants",[],(function(a,b,c,d,e,f){"use strict";a={states:{GQLS_STATE_CREATED:"created",GQLS_STATE_ACTIVE:"active",GQLS_STATE_PAUSED:"paused",GQLS_STATE_TERMINATED:"terminated"},events:{GQLS_STATE_TRANSIT_ON_CREATE:"onCreated",GQLS_STATE_TRANSIT_ON_ACTIVE:"onActive",GQLS_STATE_TRANSIT_ON_PAUSE:"onPause",GQLS_STATE_TRANSIT_ON_RESUME:"onResume",GQLS_STATE_TRANSIT_ON_TERMINATE:"onTerminate"}};e.exports=a}),null);
